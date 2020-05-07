@@ -7,4 +7,4 @@ To change "EnterYourApiKeyHere" with your actual Google Maps API key in both the
 # Demo
 ![](demo-gif.gif)
 
-![demo-gif](https://user-images.githubusercontent.com/34272473/81282721-da78e080-905b-11ea-9e0a-814e2e9ce19c.gif)
+![complete](https://user-images.githubusercontent.com/34272473/81283086-5ffc9080-905c-11ea-9bf8-8597a0132ccc.gif)
