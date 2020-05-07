@@ -2,4 +2,4 @@
 A short demo using Google Maps API to create a map, locate an address and add a pin to the address.
 
 # Demo
-![](name-of-giphy.gif)
+![](Maps-Demo-GIF.mp4)
