@@ -5,4 +5,4 @@ REMEMBER:
 To change "EnterYourApiKeyHere" with your actual Google Maps API key in both the app.ts and index.html file.
 
 # Demo
-![](maps-demo-gif.gif)
+![](demo-gif.gif)
