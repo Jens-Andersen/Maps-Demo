@@ -1,4 +1,4 @@
-# Maps-Demo
+## Description
 A short demo using Google Maps API to create a map, locate an address and add a pin to the address.
 
 ## Usage
@@ -7,5 +7,5 @@ Change "EnterYourApiKeyHere" with your actual Google Maps API key in both the ap
 run `npm start`.  
 You should now have the site open in a fresh tab in your browser.  
 
-# Demo
+## Demo
 ![](demo-gif.gif)
